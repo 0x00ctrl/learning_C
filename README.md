@@ -1,3 +1,3 @@
-# learning_C  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
+# learning_C  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">     <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=0x00ctrl&repo=learning_C&countColorcountColor&countColor=%230B0B29"/>
 
 This repo will contain the rough code I write during my attempts at learning the C Language and similar stuff.
