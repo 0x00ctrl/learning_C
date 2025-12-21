@@ -2,4 +2,4 @@
 
 This repo will contain the rough code I write during my attempts at learning the C Language and similar stuff.
 
-1) ```The catv2.c file is my twist at the linux cat utility (just the file printing functionality right now, the original linux one has more features ), my program uses ncurses and displays the text in blue color```
+1) ```The _catv2.c_ file is my twist at the linux cat utility (just the file printing functionality right now, the original linux one has more features ), my program uses ncurses and displays the text in blue color```
